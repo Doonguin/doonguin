@@ -1,10 +1,10 @@
-# Hi 👋, I'm Doonguin
+# Hi, I'm Doonguin
 
 ### Everything I make is useful to somebody
 
-- 🔭 I'm currently working on **An update for my API wrapper for PushBullet that I made when I was following an MBO course.**
+- I'm currently working on **An update for my API wrapper for PushBullet that I made when I was following an MBO course.**
 
-- 🌱 I'm currently learning **TypeScript, Java and Lit**
+- I'm currently learning **TypeScript, Java and Lit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
